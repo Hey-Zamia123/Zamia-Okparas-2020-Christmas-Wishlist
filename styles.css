@@ -1,0 +1,15 @@
+img {
+    width:210px;
+    border: dashed blue 5px;
+    padding:10px;
+    margin:10px;
+   
+}
+body {
+    background:url("https://media.istockphoto.com/photos/merry-christmas-baubles-on-snow-with-fir-branches-picture-id1066685262?k=6&m=1066685262&s=612x612&w=0&h=i5q-28kVJoBtG5EhRIOPBylj9tm1rS7HeWglNzUlwbY=");
+}
+.img {
+display: flex;
+justify-content: flex-start;
+}
+    
